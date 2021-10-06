@@ -8,12 +8,12 @@
 </head>
 <body>
 	<div class="row">
-		<div class="col col-9">
-			JOIN LOGIN
+		<div class="col text-end">
+			<a href="/member/join">JOIN</a> LOGIN
 		</div>
 	</div>
 	<div class="row">
-		<div class="col offset-md-4">
+		<div class="col text-center"> <!-- text-start: 왼쪽 정렬 -->
 			<h1>BOOK SHOP</h1>
 		</div>
 	</div>

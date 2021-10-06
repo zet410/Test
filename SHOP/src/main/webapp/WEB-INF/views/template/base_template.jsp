@@ -16,6 +16,7 @@
 <style type="text/css">
 .container-fluid{
 	width: 90%;
+	margin-top: 20px;
 }
 body {
   line-height: 1;
