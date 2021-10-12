@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-상품목록페이지
+item_list.jsp
 </body>
 </html>

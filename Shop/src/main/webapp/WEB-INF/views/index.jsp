@@ -7,20 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+index.jsp
 <jsp:forward page="/item/itemList"/>
-<!-- ddd -->
-<!-- addd -->
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-

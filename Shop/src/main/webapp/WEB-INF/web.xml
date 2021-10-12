@@ -19,9 +19,9 @@
 	
 	<filter-mapping>
 		<filter-name>characterEncoding</filter-name>
- 		<url-pattern>/*</url-pattern>
+ 		<url-pattern>/*</url-pattern> <!-- 모든 경로의 url연결(?)을 UTF-8로 설정 -->
 	</filter-mapping>
-	
+
 	<!-- The definition of the Root Spring Container shared by all Servlets and Filters -->
 	<context-param>
 		<param-name>contextConfigLocation</param-name>

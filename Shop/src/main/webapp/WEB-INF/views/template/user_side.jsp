@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-사이드페이지
+user_side.jsp
 </body>
 </html>

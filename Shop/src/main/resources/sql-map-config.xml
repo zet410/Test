@@ -3,21 +3,13 @@
 "http://mybatis.org/dtd/mybatis-3-config.dtd">
 
 <configuration>
+
 	<settings>
-		<setting name="jdbcTypeForNull" value="NULL" />
-	</settings>
+      <setting name="jdbcTypeForNull" value="NULL" />
+   </settings>
 
 	<mappers>
-		<mapper resource="/mapper/member-Mapper.xml"/>
-		<mapper resource="/mapper/item-Mapper.xml"/>
-		<mapper resource="/mapper/common-Mapper.xml"/>
+		<mapper resource="/mapper/student-Mapper.xml"/>
 	</mappers>
+	
 </configuration>
-
-
-
-
-
-
-
-
